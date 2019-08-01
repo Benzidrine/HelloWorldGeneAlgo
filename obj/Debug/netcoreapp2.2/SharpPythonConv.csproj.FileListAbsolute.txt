@@ -1,0 +1,11 @@
+/Users/benzidrine/Repos/SharpPythonConv/bin/Debug/netcoreapp2.2/SharpPythonConv.deps.json
+/Users/benzidrine/Repos/SharpPythonConv/bin/Debug/netcoreapp2.2/SharpPythonConv.runtimeconfig.json
+/Users/benzidrine/Repos/SharpPythonConv/bin/Debug/netcoreapp2.2/SharpPythonConv.runtimeconfig.dev.json
+/Users/benzidrine/Repos/SharpPythonConv/bin/Debug/netcoreapp2.2/SharpPythonConv.dll
+/Users/benzidrine/Repos/SharpPythonConv/bin/Debug/netcoreapp2.2/SharpPythonConv.pdb
+/Users/benzidrine/Repos/SharpPythonConv/obj/Debug/netcoreapp2.2/SharpPythonConv.csprojAssemblyReference.cache
+/Users/benzidrine/Repos/SharpPythonConv/obj/Debug/netcoreapp2.2/SharpPythonConv.csproj.CoreCompileInputs.cache
+/Users/benzidrine/Repos/SharpPythonConv/obj/Debug/netcoreapp2.2/SharpPythonConv.AssemblyInfoInputs.cache
+/Users/benzidrine/Repos/SharpPythonConv/obj/Debug/netcoreapp2.2/SharpPythonConv.AssemblyInfo.cs
+/Users/benzidrine/Repos/SharpPythonConv/obj/Debug/netcoreapp2.2/SharpPythonConv.dll
+/Users/benzidrine/Repos/SharpPythonConv/obj/Debug/netcoreapp2.2/SharpPythonConv.pdb
